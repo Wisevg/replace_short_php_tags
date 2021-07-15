@@ -1,6 +1,6 @@
 # Replace short PHP tags
 
-Can replace all short php tags in a file or in all files in directory.
+Can replace all short php tags in a file or in all files in a directory.
 
 Replaces "<?=" with "<?php echo " and "<?" with "<?php "
 
